@@ -6,7 +6,7 @@
 </div>
 
 ## Download
-Download from [Releases](https://github.com/Schubilegend/SchubiAuthV2/releases) and drag that into your mod folder.
+Download from [Releases](https://github.com/Timogius/SchubiAuthV3/releases) and drag that into your mod folder.
 
 or
 
